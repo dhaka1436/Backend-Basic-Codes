@@ -1,0 +1,9 @@
+1. Sending JSON data 
+GET / users - List all the users information
+GET / user/id - get user information with particular id 
+
+POST / user - create the user
+PATCH / user/id - update the information of user of particular id
+
+DELETE / users/id - deleting the user having the value id
+
